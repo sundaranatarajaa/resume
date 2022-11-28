@@ -1,15 +1,9 @@
-import json
-import os
 import typing
-from typing import Dict
 
 from rich import box
-from rich.align import Align
-from rich.columns import Columns
 from rich.console import Console
-from rich.live import Live
-from rich.panel import Panel
 from rich.table import Table
+from rich.terminal_theme import DEFAULT_TERMINAL_THEME
 from rich.text import Text
 from rich.tree import Tree
 
@@ -54,13 +48,9 @@ class ResumeBuilder:
         self._create_footer()
 
         self.console.print(self.table)
-        CONSOLE_HTML_FORMAT = """\
-        # <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
-        # """
-        from rich.terminal_theme import DEFAULT_TERMINAL_THEME
 
-        # self.console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
         self.console.save_svg("resume.svg", title="sundara_nataraja.py", theme=DEFAULT_TERMINAL_THEME)
+
 
     def _create_title(self, title, role):
         title = Text.from_markup(

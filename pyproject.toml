@@ -10,6 +10,8 @@ rich = "^12.6.0"
 pydantic = "^1.10.2"
 invoke = "^1.7.3"
 typer = "^0.7.0"
+svglib = "^1.4.1"
+CairoSVG = "^2.5.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
