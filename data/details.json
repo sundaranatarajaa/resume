@@ -1,0 +1,144 @@
+{
+  "title": "Sundara Nataraja Amancharla",
+  "role": "Lead Backend Developer",
+  "about": "I am a strong believer of \"I Can is greater than IQ\". I have architected and developed multiple python\nbased web tools and standalone tools. Always being first to initiate and innovate is my strongest\nstrength. Having strong critical and analytical thinking along with strong technical skills enabled me to be\ntop at what I do.",
+  "motto": "I Can is greater than IQ",
+  "info": {
+    "email": "sundaranatarajaa@gmail.com",
+    "phone_num": "+91-7022617909",
+    "location": "Hyderabad, India",
+    "links": {
+      "linkedin": "linkedin.com/in/sundara-nataraja-amancharla-15b85965"
+    }
+  },
+  "programming_stacks": {
+    "current_stack": [
+      "Python",
+      "FastAPI",
+      "SqlAlchemy",
+      "Dramatiq",
+      "Postgres",
+      "Azure",
+      "Kubernetes",
+      "Poetry",
+      "Pydantic",
+      "Pandas",
+      "Pytest",
+      "React"
+    ],
+    "previous_stacks": [
+      [
+        "Python",
+        "Django",
+        "DjangoDRF",
+        "Mysql",
+        "MongoDB",
+        "Docker",
+        "Kubernetes",
+        "Angular",
+        "Jenkins"
+      ],
+      [
+        "Python",
+        "PYQT",
+        "Oracle"
+      ]
+    ]
+  },
+  "experiences": [
+    {
+      "company": "Aspaara AG",
+      "roles": [
+        "Lead Backend Developer",
+        "Senior Backend Developer"
+      ],
+      "serving_period": {
+        "start_date": "2021-10-18",
+        "end_date": null
+      },
+      "most_proud_of": [
+        "Proposed and developed many new feature in tool and was able to take responsibility within 3 months",
+        "Complete automation of deployment from feature -> production using github actions,azure,terraform",
+        "Setting Up complete Infrastructure in Azure"
+      ],
+      "tasks": [
+        " To develop using modern frameworks and state-of-the-art tools.",
+        " To contribute to the roadmap definition and work on the development independently within an agile organization.",
+        " To manage team of 5+ developer and review the code",
+        " To be responsible for infrastructure, releases and deployment",
+        " To responsible for technical refinements of task and estimations"
+      ]
+    },
+    {
+      "company": "Continental Automotive",
+      "roles": [
+        "Manager",
+        "Module Lead",
+        "Senior Engineer"
+      ],
+      "serving_period": {
+        "start_date": "2014-09-16",
+        "end_date": "2021-08-31"
+      },
+      "most_proud_of": [
+        "Two Time in a row 'Star of Quarter' for exceptional contribution towards Labeling Automation and Tracking and AMS",
+        "Design and Architect for Project \\\"Versatile\\\" which is automation of Validation and testing process of ADAS Sensors and has saved around 7 man year of Effort helped organization to manage workload from various customers during the pandamic ",
+        "Key Valuable player from 2016"
+      ],
+      "tasks": [
+        "Create and Design Web Tools from scratch and create a technical stack for the project. Translate design into the requirements",
+        "Product Owner for Multiple projects from creating vision and translating same to work-packages and bring the project to closure.",
+        "Leading and Managing 10+ colleagues last 3 years that involves recruiting, training ,provide constant feedback and appraisal of the colleagues.",
+        "Being SPOC for the tools developed and talking to German Counterparts and understand the business requirement, Communicating the status, Demonstrating the tool and collecting feedback.",
+        "Responsible for talking to various counterparts, understand requirements and propose a solution that fits the vision and goals of the organization"
+       ]
+    },
+    {
+      "company": "Keystone Logic",
+      "roles": [
+        "Software Engineer"
+      ],
+      "serving_period": {
+        "start_date": "2014-04-01" ,
+        "end_date": "2014-08-15"
+      },
+      "most_proud_of": [
+
+      ],
+      "tasks": [
+        "Involved in developing desktop client application using the wxPython GUI framework",
+        "Responsible for developing slotting functionality that manages various aspects of Huge Adidas Warehouse",
+        "Performed unit testing on different test cases"
+      ]
+    },
+    {
+      "company": "DoubleSpring Media PVT Ltd",
+      "roles": [
+        "Software Engineer"
+      ],
+      "serving_period": {
+        "start_date": "2012-06-01",
+        "end_date": "2013-10-01"
+      },
+      "most_proud_of": [
+        "Using Titanium SDK, I was able to propose new product line of mobile apps which increased the sales and business"
+      ],
+      "tasks": [
+        "Develop modules and features for the Content Management system that are designed to manage data related to a certain city or business",
+        "Responsible for taking requirements from the customer, design and develop a cross-platform mobile app for their City/Business needs.",
+        "Develop django backend code ,test and provide demo to the customers"
+      ]
+    }
+  ],
+  "education": [
+    {"degree":"Bachelors in Computer Science and Engineering",
+    "university":"JNTU,Anantapur",
+      "serving_period": {
+        "start_date": "2012-05-01" ,
+        "end_date": "2008-05-01"
+      }
+    }
+    ],
+  "certificates": [],
+  "interests": ["Painting","origami","Reading"]
+}
